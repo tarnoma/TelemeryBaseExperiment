@@ -1,0 +1,3 @@
+condition,participants_telemetry,questionnaire_responses,participants_matched,encounters,encounters_per_participant_median,min,max,duration_median_s,duration_q1,duration_q3,wins,win_pct,max_boss_level,T17_zero,reaction_samples_lt2,T11_gt50
+Rule-based,24,22,21,113,4.0,2,12,130.35,103.49,155.71,28,24.778761061946902,5,8,40,0
+Adaptive,21,22,21,206,7.0,2,37,29.505,16.8625,54.582499999999996,157,76.2135922330097,31,25,133,8
