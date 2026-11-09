@@ -17,6 +17,8 @@ code/
   make_supplementary_pdf.py    builds supplementary/Supplementary_Tables.tex from results/
 data/
   README.md                    expected input files and their structure
+docs/
+  game_parameters.md           all game parameters of the rule-based and adaptive conditions
 results/                       CSV outputs (see table below)
 figures/
   Fig1_gameplay_screenshot.png In-game view of the prototype (paper Fig. 1)
